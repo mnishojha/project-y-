@@ -15,5 +15,5 @@ to be added
 
 ## Contributors
 * [Mayank Jain](https://github.com/mayankjain04)
-* [Paurushdhar Sinha](#)
+* [Paurushdhar Sinha](https://github.com/paurushdhar)
 * [Manish Ojha](#)
